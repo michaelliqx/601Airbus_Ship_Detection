@@ -13,6 +13,15 @@
 #### d) the size of ship various 
 #### e) how to recognize the head of the ship
 
-## edition 1:
+## High Level Diagram:
+
+### First step: Machine learning
 #### we could classify the ship by its size, color(RGB), edge detect
-#### 
+#### Using Opencv to abstract the imformation from picture 
+#### then after we get the training data, we evaluate the distribution of the data to use choose a classification module
+#### possible classification module: RNN, CNN, Random Forest, Decision Tree...
+#### after that, we could use the testing data to calculate the loss function to confirm the result of our work. 
+
+### Second step: Application Development
+#### Based on html
+
