@@ -2,7 +2,7 @@
 ### This is the project of ECE EC601,2018 FALL 
 #### Group member: Qingxing Li  Yuhang Miao  Sichun Hao
 ### trello link:https://trello.com/b/V1oiuFlo/sprint1
-
+# Notice: all the work of this project are in :https://github.com/Junoth/AirbusShipDetection
 
 ## Our Target:
 ### 1.to build a module that could detect the ship in a picture with high speed and precision, even to enumerate the number and to predict the route of the ship. 
@@ -29,6 +29,8 @@
 #### Based on html
 #### Use google developer
 ##### required: Python, html, CSS
+
+
 
 
 
